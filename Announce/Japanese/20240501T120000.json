@@ -1,6 +1,0 @@
-{
-    "Title":"ExtremeRoles v10.1.1.0 Recoveryアップデート",
-    "ShortTitle":"v10.1.1 リリース",
-    "Bio":"正しく動作する状態に復旧できるように！！",
-    "Body":"「ExtremeRoles v10.1.1.0 Recoveryアップデート」をリリースしました<br>アップデート(AmongUsとMOD両方で)不具合が発生した時に復旧できるように「ダウングレード」と「セーフブート」機能を追加しました、詳しくは<link=\"https://github.com/yukieiji/ExtremeRoles/releases/tag/v10.1.1.0\">リリースノート</link> を参照して下さい。<br><br> - ダウングレード:実行されているExRのバージョンを一つ落とすことができる機能です<br> - セーフブート:ExRの起動時に問題が発生した時、ExRの一部機能(ゲーム内アップデート等)を残してAmongUsを起動できる機能です。<br><br><align=\"right\">yukieijiより"
-}
